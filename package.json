@@ -1,0 +1,17 @@
+{
+  "name": "xy",
+  "version": "1.0.0",
+  "description": "Determine the gender of a name",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "gender": "^0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
